@@ -70,3 +70,4 @@ module.exports = {
   countVowels,
   isPrime,
 };
+//Julian Andres Pedraza Padilla
